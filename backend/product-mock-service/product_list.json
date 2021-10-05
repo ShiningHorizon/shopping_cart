@@ -5,12 +5,6 @@
         "description": "Culpa non veniam deserunt dolor irure elit cupidatat culpa consequat nulla irure aliqua.",
         "modifiedDate": "2019-03-13T12:18:27 -01:00",
         "name": "packaged strawberries",
-        "package": {
-            "height": 948,
-            "length": 455,
-            "weight": 54,
-            "width": 905
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -30,12 +24,6 @@
         "description": "Dolore ipsum eiusmod dolore aliquip laborum laborum aute ipsum commodo id irure duis ipsum.",
         "modifiedDate": "2019-09-21T12:08:48 -02:00",
         "name": "candied prunes",
-        "package": {
-            "height": 329,
-            "length": 179,
-            "weight": 293,
-            "width": 741
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -55,12 +43,6 @@
         "description": "Reprehenderit aliquip consequat quis excepteur et et esse exercitation adipisicing dolore nulla consequat.",
         "modifiedDate": "2019-11-25T12:32:49 -01:00",
         "name": "fresh prunes",
-        "package": {
-            "height": 736,
-            "length": 567,
-            "weight": 41,
-            "width": 487
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -80,12 +62,6 @@
         "description": "Minim qui elit dolor est commodo excepteur ea voluptate eu dolor culpa magna.",
         "modifiedDate": "2019-09-05T03:36:34 -02:00",
         "name": "packaged tomatoes",
-        "package": {
-            "height": 4,
-            "length": 756,
-            "weight": 607,
-            "width": 129
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -105,12 +81,6 @@
         "description": "Labore dolore velit mollit aute qui magna elit excepteur officia cupidatat ea ea aliqua.",
         "modifiedDate": "2019-10-04T06:32:14 -02:00",
         "name": "fresh tomatoes",
-        "package": {
-            "height": 881,
-            "length": 252,
-            "weight": 66,
-            "width": 431
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -130,17 +100,11 @@
         "description": "Ad eiusmod cupidatat duis dolor mollit labore mollit eu.",
         "modifiedDate": "2019-04-03T10:36:25 -02:00",
         "name": "fresh lettuce",
-        "package": {
-            "height": 813,
-            "length": 932,
-            "weight": 457,
-            "width": 436
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
         "price": 51,
-        "productId": "12929eb9-3eb7-4217-99e4-1a39c39217b6",
+        "productId": "00001111-22223333-44445555-66667777",
         "tags": [
             "ad",
             "ipsum",
@@ -155,12 +119,6 @@
         "description": "Amet cupidatat anim ipsum pariatur sit eu.",
         "modifiedDate": "2019-04-17T06:31:47 -02:00",
         "name": "packaged steak",
-        "package": {
-            "height": 707,
-            "length": 417,
-            "weight": 491,
-            "width": 549
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -180,12 +138,6 @@
         "description": "Labore est aliqua laborum ea laboris voluptate cillum aute duis occaecat.",
         "modifiedDate": "2019-11-01T10:23:57 -01:00",
         "name": "fresh lettuce",
-        "package": {
-            "height": 21,
-            "length": 311,
-            "weight": 817,
-            "width": 964
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -205,12 +157,6 @@
         "description": "Fugiat sunt in eu eu occaecat.",
         "modifiedDate": "2019-05-19T05:53:56 -02:00",
         "name": "half-eaten cake",
-        "package": {
-            "height": 337,
-            "length": 375,
-            "weight": 336,
-            "width": 1
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -230,12 +176,6 @@
         "description": "Aliqua officia magna do ipsum laboris anim magna nulla sit labore nulla qui duis.",
         "modifiedDate": "2019-05-29T05:33:49 -02:00",
         "name": "leftover cheese",
-        "package": {
-            "height": 267,
-            "length": 977,
-            "weight": 85,
-            "width": 821
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -255,12 +195,6 @@
         "description": "Ullamco commodo cupidatat reprehenderit eu sunt.",
         "modifiedDate": "2019-03-11T06:10:38 -01:00",
         "name": "fresh croissants",
-        "package": {
-            "height": 122,
-            "length": 23,
-            "weight": 146,
-            "width": 694
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -280,12 +214,6 @@
         "description": "Eu ullamco irure qui labore qui duis mollit eiusmod adipisicing fugiat adipisicing nostrud ut non.",
         "modifiedDate": "2019-10-28T01:25:50 -01:00",
         "name": "packaged ham",
-        "package": {
-            "height": 902,
-            "length": 278,
-            "weight": 775,
-            "width": 31
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -305,12 +233,6 @@
         "description": "Eu culpa nulla est et anim sint amet.",
         "modifiedDate": "2019-08-22T04:22:39 -02:00",
         "name": "fresh bread",
-        "package": {
-            "height": 551,
-            "length": 976,
-            "weight": 47,
-            "width": 846
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -330,12 +252,6 @@
         "description": "Mollit proident aliquip consectetur irure qui veniam laboris aliqua proident id fugiat esse nulla.",
         "modifiedDate": "2019-10-16T10:53:33 -02:00",
         "name": "candied strawberries",
-        "package": {
-            "height": 55,
-            "length": 32,
-            "weight": 661,
-            "width": 694
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -355,12 +271,6 @@
         "description": "Ex non proident et eiusmod et elit est exercitation anim qui ullamco elit.",
         "modifiedDate": "2019-09-04T08:25:44 -02:00",
         "name": "fresh pie",
-        "package": {
-            "height": 718,
-            "length": 59,
-            "weight": 18,
-            "width": 962
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -380,12 +290,6 @@
         "description": "Pariatur deserunt nostrud cupidatat ut officia voluptate adipisicing mollit sunt cillum quis magna dolore aute.",
         "modifiedDate": "2019-10-11T10:28:49 -02:00",
         "name": "packaged lettuce",
-        "package": {
-            "height": 81,
-            "length": 57,
-            "weight": 653,
-            "width": 367
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -405,12 +309,6 @@
         "description": "Dolore nulla laboris incididunt laborum.",
         "modifiedDate": "2019-08-05T01:06:02 -02:00",
         "name": "leftover ham",
-        "package": {
-            "height": 246,
-            "length": 639,
-            "weight": 354,
-            "width": 953
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -430,12 +328,6 @@
         "description": "Pariatur mollit voluptate enim qui pariatur deserunt elit.",
         "modifiedDate": "2019-10-02T10:50:16 -02:00",
         "name": "fresh milk",
-        "package": {
-            "height": 576,
-            "length": 948,
-            "weight": 535,
-            "width": 646
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -455,12 +347,6 @@
         "description": "Consectetur laborum ipsum ad laboris.",
         "modifiedDate": "2019-02-23T08:50:01 -01:00",
         "name": "half-eaten lettuce",
-        "package": {
-            "height": 348,
-            "length": 119,
-            "weight": 723,
-            "width": 44
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],
@@ -480,12 +366,6 @@
         "description": "Aliqua tempor irure qui consectetur exercitation culpa minim magna laboris ex pariatur elit culpa.",
         "modifiedDate": "2019-11-24T02:23:27 -01:00",
         "name": "fresh steak",
-        "package": {
-            "height": 328,
-            "length": 7,
-            "weight": 439,
-            "width": 747
-        },
         "pictures": [
             "http://placehold.it/32x32"
         ],

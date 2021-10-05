@@ -38,7 +38,7 @@
         ]
     },
     {
-        "category": "fruit",
+        "category": "banana",
         "createdDate": "2017-03-17T03:06:53 -01:00",
         "description": "Reprehenderit aliquip consequat quis excepteur et et esse exercitation adipisicing dolore nulla consequat.",
         "modifiedDate": "2019-11-25T12:32:49 -01:00",
@@ -46,7 +46,7 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 100,
+        "price": 9669,
         "productId": "a6dd7187-40b6-4cb5-b73c-aecd655c6d9a",
         "tags": [
             "nisi",
